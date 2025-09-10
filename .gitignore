@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit specific
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# Model / large files (optional)
+*.h5
+*.pt
+*.ckpt
+*.joblib
+
+# If you don’t want to push your ML models
+# uncomment below to ignore pickle files
+# *.pkl
