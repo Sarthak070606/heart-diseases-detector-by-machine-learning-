@@ -9,4 +9,9 @@ cd heart-stroke-prediction
 pip install -r requirements.txt
 streamlit run app.py
 Heart Disease Detector App
-url = https://sarthak070606-heart-diseases-detector-by-machine-lea-app-rz6jck.streamlit.app/
+url =https://sarthak070606-heart-diseases-detector-by-machine-lea-app-rz6jck.streamlit.app/
+# ❤️ Heart Disease / Stroke Prediction App  
+
+A machine learning-powered web app built with Streamlit to predict the risk of heart disease.  
+
+🔗 **Live App:** [Click Here](https://sarthak070606-heart-diseases-detector-by-machine-lea-app-rz6jck.streamlit.app/)  
