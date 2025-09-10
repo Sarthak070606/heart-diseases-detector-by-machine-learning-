@@ -8,3 +8,5 @@ git clone https://github.com/<your-username>/heart-stroke-prediction.git
 cd heart-stroke-prediction
 pip install -r requirements.txt
 streamlit run app.py
+Heart Disease Detector App
+url = https://sarthak070606-heart-diseases-detector-by-machine-lea-app-rz6jck.streamlit.app/
