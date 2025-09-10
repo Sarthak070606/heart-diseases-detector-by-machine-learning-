@@ -16,6 +16,8 @@ A machine learning-powered web app built with Streamlit to predict the risk of h
 
 # ❤️ Heart Disease / Stroke Prediction App  
 
+# ❤️ Heart Disease / Stroke Prediction App  
+
 A machine learning-powered web app built with Streamlit to predict the risk of heart disease.  
 
 🔗 **Live App:** [Click Here](https://sarthak070606-heart-diseases-detector-by-machine-lea-app-rz6jck.streamlit.app/)  
